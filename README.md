@@ -1,16 +1,33 @@
-## Hi there 👋
+I'm Ahlam 👋
 
-<!--
-**ahlamcys7/ahlamcys7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a beginner in UI/UX and Web Design, passionate about learning how to build clean and functional websites. This profile is my personal space to document my journey, practice, and share the projects I create.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+
+
+### 🚀 My First Project
+
+
+
+- **Project Name:** Verbify
+
+- **Description:** An interactive web application to learn and practice English verbs through flashcards and quizzes.
+- **Tools Used:** Figma, HTML, CSS, Netlify
+
+- **Live Preview:** [View Live Site](https://verbify-hub.netlify.app)
+
+
+
+---
+
+
+
+### 🌱 Currently Learning
+
+- UI/UX Principles & Responsive Web Design
+
+- Modern Web Development & Interactive UI
+
